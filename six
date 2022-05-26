@@ -1,0 +1,26 @@
+tir = int(input('Месяц:'))
+rio = int(input('Число:'))
+if rio == 22 and tir == 11:
+   print('стрелец')
+if rio == 23 and tir == 11:
+   print('стрелец')
+if rio == 24 and tir == 11:
+   print('стрелец')
+if rio == 25 and tir == 11:
+   print('стрелец')
+if rio == 26 and tir == 11:
+   print('стрелец')
+if rio == 27 and tir == 11:
+   print('стрелец')
+if rio == 28 and tir == 11:
+   print('стрелец')
+if rio == 29 and tir == 11:
+   print('стрелец')
+if rio == 30 and tir == 11:
+   print('стрелец')
+if rio == 1 and tir == 12:
+   print('стрелец')
+if rio == 2 and tir == 12:
+   print('стрелец')
+if rio == 3 and tir == 12:
+   print('стрелец')
